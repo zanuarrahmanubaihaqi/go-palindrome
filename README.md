@@ -4,4 +4,4 @@ simple palindrome with go
 
 # Installation
 
-> go mod init <projectName>
+> go mod init "projectName"
